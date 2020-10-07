@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">D351- GithubUser_App</string>
+    <string name="keluar">Keluar</string>
+    <string name="nama">Nama</string>
+    <string name="company">company</string>
+    <string name="lokasi">lokasi</string>
+    <string name="username">username</string>
+    <string name="repository">repository</string>
+    <string name="follower">follower</string>
+    <string name="following">following</string>
+</resources>
